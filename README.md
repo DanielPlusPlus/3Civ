@@ -1,8 +1,6 @@
 
 # 3Civ
 
----
-
 ## Opis / Description
 
 **PL:**
@@ -10,8 +8,6 @@ Projekt 3Civ to gra strategiczna napisana w C++ z użyciem biblioteki SFML.
 
 **EN:**
 3Civ is a strategy game written in C++ using the SFML library.
-
----
 
 ## Wymagania / Requirements
 
@@ -25,8 +21,6 @@ Projekt 3Civ to gra strategiczna napisana w C++ z użyciem biblioteki SFML.
 - CMake (recommended version: 3.15)
 - SFML 2.6.2
 
----
-
 ## Instalacja bibliotek / Installing libraries
 
 **PL:**
@@ -38,8 +32,6 @@ Projekt 3Civ to gra strategiczna napisana w C++ z użyciem biblioteki SFML.
 1. Download SFML 2.6.2 from: https://www.sfml-dev.org/download.php
 2. Extract SFML to the `external/SFML-2.6.2`
 3. Make sure the SFML paths are correctly set in CMakeLists.txt
-
----
 
 ## Budowanie projektu / Building the project
 
@@ -78,8 +70,6 @@ Projekt 3Civ to gra strategiczna napisana w C++ z użyciem biblioteki SFML.
    ```
 5. Run the program:
    - The executable can be found in the `build` directory or a subdirectory depending on configuration.
-
----
 
 ## Uwagi / Notes
 
