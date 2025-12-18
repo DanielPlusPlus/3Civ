@@ -17,7 +17,7 @@ Projekt 3Civ to gra strategiczna napisana w C++ z użyciem biblioteki SFML.
 - SFML 2.6.2
 
 **EN:**
-- C++ compiler (recommended: GCC 8.1.0 MinGW-w64)
+- C++ compiler (recommended GCC 8.1.0 MinGW-w64)
 - CMake (recommended version: 3.15)
 - SFML 2.6.2
 
